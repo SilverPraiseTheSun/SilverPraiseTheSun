@@ -1,6 +1,7 @@
 ```js
   const Fede = {
-      tecnologies: {"React", "Redux"}
+      code: {"JavaScript", "CSS", "C", "C++", "C#", "PHP"}
+      tools: {"React", "Redux", "Express", "Sequelize", "Node"}
   }
 ```
 &nbsp;&nbsp;
