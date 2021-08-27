@@ -1,7 +1,7 @@
 ### Hi there! 🙋‍♂️☕🖥️	
 ```js
   const Fede = {
-      description: "Fullstack developer"
+      description: "Fullstack developer",
       study: ["UTN", "Henry Bootcamp"],
       code: ["JavaScript", "HTML", "CSS", "C", "C++", "C#", "PHP"],
       tools: ["React", "Redux", "Express", "Sequelize", "Node"],
