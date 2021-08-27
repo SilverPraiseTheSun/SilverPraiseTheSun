@@ -1,7 +1,7 @@
 ```js
   const Fede = {
-      code: {"JavaScript", "CSS", "C", "C++", "C#", "PHP"}
-      tools: {"React", "Redux", "Express", "Sequelize", "Node"}
+      code: ["JavaScript", "CSS", "C", "C++", "C#", "PHP"]
+      tools: ["React", "Redux", "Express", "Sequelize", "Node"]
   }
 ```
 &nbsp;&nbsp;
