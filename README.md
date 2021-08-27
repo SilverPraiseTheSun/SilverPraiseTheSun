@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi! I'm Jeremias, FullStack JavaScript developer. from Argentina to 🌎 . Passionate about technology and its influence on people's daily lives.
+  Hi! I'm Fede, FullStack JavaScript developer. from Argentina to 🌎 . Passionate about technology and its influence on people's daily lives.
 </h2>
 &nbsp;&nbsp;
 <div align="center" >
