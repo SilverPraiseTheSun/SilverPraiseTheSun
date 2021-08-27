@@ -12,7 +12,7 @@
 In development...
 
 ### Contributions 👨‍🦱👨‍🦱👨‍🦱
-<a href="https://github.com/egoyret/PG_MerceriaOnline">PG-Merceria Araceli</a></h3>
+<a href="https://github.com/egoyret/PG_MerceriaOnline">Merceria Online</a></h3>
 ![merceria](https://user-images.githubusercontent.com/67632014/131160187-1ab27909-4c04-4f9e-b384-0b1e4bcfa75f.png)
 
 ### Network 📧
