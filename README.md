@@ -1,6 +1,6 @@
 ```js
   const Fede = {
-      study: ["UTN", "Henry Bootcamp"]
+      study: ["UTN", "Henry Bootcamp"],
       code: ["JavaScript", "HTML", "CSS", "C", "C++", "C#", "PHP"],
       tools: ["React", "Redux", "Express", "Sequelize", "Node"]
   }
