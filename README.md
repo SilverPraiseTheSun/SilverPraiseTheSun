@@ -3,7 +3,6 @@
   const Fede = {
       description: "Hola! Yo soy un Fullstack Developer en busqueda de mi primer trabajo.
       Poseo experiencia en trabajos universitarios, asi como tambien en proyectos individuales y grupales.",
-      study: ["UTN", "Henry Bootcamp"],
       code: ["JavaScript", "HTML", "CSS", "C", "C++", "C#", "PHP"],
       tools: ["React", "Redux", "Express", "Sequelize", "Node"],
       favorite_game: "🌞 Dark Souls 🌞"
