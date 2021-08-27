@@ -12,6 +12,7 @@
 [LinkedIn](https://www.linkedin.com/in/federico-jakowicki-a0a835202/)
 
 ### Contributions 👨‍💼
+<a href="https://github.com/egoyret/PG_MerceriaOnline">PG-Merceria Araceli</a></h3>
 &nbsp;&nbsp;
 <div align="center" >
   <img width="450px" height="380px" src="https://cdn.dribbble.com/users/2401141/screenshots/5487982/developers-gif-showcase.gif" alt="Gify"/>
