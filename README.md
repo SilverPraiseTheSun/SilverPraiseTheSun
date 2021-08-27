@@ -1,6 +1,6 @@
 &nbsp;&nbsp;
 <div align="center" >
-  <img src="https://media.giphy.com/media/Ss5zpSaKfhj2v04DpQ/giphy.gif?cid=ecf05e47ivt6nb0a68j6mxokx8psqj3fw86lire3162n1d9q&rid=giphy.gif&ct=g" alt="Gify"/>
+  <img src="https://www.michalbialecki.com/wp-content/uploads/2018/05/console-02.gif" alt="Gify"/>
 </div>
 
 ### Hi there! 🙋‍♂️☕🖥️	
