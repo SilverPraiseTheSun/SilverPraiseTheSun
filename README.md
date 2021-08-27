@@ -27,5 +27,5 @@
 [## 📌 My proyects
 <h3>Group Contribution: <a href="https://github.com/egoyret/PG_MerceriaOnline">PG-Merceria Araceli</a></h3>
 <p align="center">
-  <a><img  width= "450px" height="320px" " src="https://github.com/jexeq/jexeq/blob/main/PG-Merceria-Araceli.png"></a>
+  <a><img  width= "550px" height="320px" " src="https://github.com/jexeq/jexeq/blob/main/PG-Merceria-Araceli.png"></a>
 </p>
