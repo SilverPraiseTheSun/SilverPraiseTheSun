@@ -8,7 +8,7 @@
       favorite_game: "🌞 Dark Souls 🌞"
   }
 ```
-### Network 👨‍💼
+### Network 📧
 [LinkedIn](https://www.linkedin.com/in/federico-jakowicki-a0a835202/)
 
 ### Contributions 👨‍💼👨‍💼👨‍💼
