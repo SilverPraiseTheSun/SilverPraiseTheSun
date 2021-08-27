@@ -4,7 +4,7 @@
       description: "Fullstack developer",
       study: ["UTN", "Henry Bootcamp"],
       code: ["JavaScript", "HTML", "CSS", "C", "C++", "C#", "PHP"],
-      tools: ["React", "Redux", "Express", "Sequelize", "Node"],
+      tools: [<a href="https://es.reactjs.org">React</a>, "Redux", "Express", "Sequelize", "Node"],
       favorite_game: "🌞 Dark Souls 🌞"
   }
 ```
