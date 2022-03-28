@@ -8,7 +8,7 @@
                     
       code: ["JavaScript", "HTML", "CSS", "C", "C++", "C#", "PHP"],
       
-      tools: ["React", "Redux", "Express", "Sequelize", "Node"],
+      tools: ["Vue", "React", "Redux", "Express", "Sequelize", "Node"],
       
       favorite_game: "🌞 Dark Souls 🌞"
   }
