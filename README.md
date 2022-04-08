@@ -1,10 +1,9 @@
 ### Hi there! 🙋‍♂️☕🖥️	
 ```js
   const Fede = {
-      description: "Hola! Yo soy un Fullstack Developer en busqueda de mi primer trabajo.
-                    Actualmente estoy terminando el Henry Bootcamp (+800hs), ademas me 
-                    encuentro en el final de la Tecnicatura Universitaria en Programacion en la UTN.
-                    Participe en la creacion de un e-comerce y en varios proyectos individuales.",
+      description: "Hola! Yo soy Federico un Fullstack Web Developer. Estudie la Tecnicatura Universitaria en Programación
+                    en la Universidad Técnica Nacional de argentina, ademas de ser graduado del Henry Bootcamp.
+                    Tengo experiencia en el desarrollo de e-commerces y sistemas informaticos.",
                     
       code: ["JavaScript", "HTML", "CSS", "C", "C++", "C#", "PHP"],
       
