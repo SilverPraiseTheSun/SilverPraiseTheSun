@@ -1,6 +1,6 @@
 ### Hi there! 🙋‍♂️☕🖥️	
 ```js
-  const Fede = {
+  var Fede = {
       description: "Hola! Yo soy Federico un Fullstack Web Developer. Estudie la Tecnicatura Universitaria en Programación
                     en la Universidad Técnica Nacional de argentina, ademas de ser graduado del Henry Bootcamp.
                     Tengo experiencia en el desarrollo de e-commerces y sistemas informaticos.",
