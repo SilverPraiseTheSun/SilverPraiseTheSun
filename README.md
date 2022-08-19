@@ -5,7 +5,7 @@
                     en la Universidad Técnica Nacional de Argentina, además de ser graduado del Henry Bootcamp.
                     Tengo experiencia en el desarrollo de e-commerces y sistemas informáticos.
                     
-                    Actualmente trabajando para Leren Consulting :leren:",
+                    Actualmente trabajando para Leren Consulting",
                     
       code: ["JavaScript", "HTML", "CSS", "C", "C++", "C#", "PHP"],
       
