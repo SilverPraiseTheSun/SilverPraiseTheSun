@@ -3,7 +3,9 @@
   var Fede = {
       description: "Hola! Yo soy Federico un Fullstack Web Developer. Estudié la Tecnicatura Universitaria en Programación
                     en la Universidad Técnica Nacional de Argentina, además de ser graduado del Henry Bootcamp.
-                    Tengo experiencia en el desarrollo de e-commerces y sistemas informáticos.",
+                    Tengo experiencia en el desarrollo de e-commerces y sistemas informáticos.
+                    
+                    Actualmente trabajando para Leren Consulting",
                     
       code: ["JavaScript", "HTML", "CSS", "C", "C++", "C#", "PHP"],
       
